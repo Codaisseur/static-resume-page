@@ -59,8 +59,10 @@ You could add just another style right under your first declaration, this time u
 
 Your result will look something like this: ![](https://cd.sseu.re/This_will_show_up_in_hour_tab__2018-09-04_14-57-31.png)
 
+---
 #### 🎯 Learning Goal Tracker
 * [x] How to add a background color
+---
 
 However, we only want to color our footer. We'll have to make sure css recognizes the difference between those two boxes. To do so, we need to zoom in on the elements that HTML builds on.
 
@@ -112,8 +114,10 @@ Some HTML elements are **self-closing**. They don't need a closing tag.
 > The result should look something like this:
 > ![result](https://cd.sseu.re/This_will_show_up_in_hour_tab__2018-09-04_15-11-49.png)
 
+---
 #### 🎯 Learning Goal Tracker
 * [x] How to style a specific part of your webpage
+---
 
 Time to add some content to our footer! Let's check on how to add text to our HTML...
 
@@ -203,10 +207,12 @@ Which will look like this:
 > * finally update your style sheet and add a css declaration with a property `text-align` and a value `center`. Explore with some other properties, such as [font-family](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family) and [font-weight](https://developer.mozilla.org/en-US/docs/Web/CSS/font-weight)
 > By now, your page should look something like this:
 > ![](https://cd.sseu.re/Jane_Doe__2018-09-04_15-40-26.png)
+
+---
 #### 🎯 Learning Goal Tracker
 *  [x] How to create a paragraph
 *  [x] How to style your text
 *  [x] How to center something on your page
 
-
+---
 
