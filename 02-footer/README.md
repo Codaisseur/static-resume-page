@@ -97,7 +97,7 @@ Some HTML elements are **self-closing**. They don't need a closing tag.
 > </html>
 > ```
 >
-> Now select each box separately in our css file: 
+> * Now select each box separately in our css file: 
 >
 > ```css
 > .footer {
@@ -105,6 +105,97 @@ Some HTML elements are **self-closing**. They don't need a closing tag.
 >   background-color: #A60000;
 > }
 >```
+> The result should look something like this:
+> ![result](https://cd.sseu.re/This_will_show_up_in_hour_tab__2018-09-04_15-11-49.png)
+
+Time to add some content to our footer! Let's check on how to add text to our HTML...
+
+## Text
+
+### Headings
+
+HTML has six "levels" of headings:
+
+```html
+<h1>This is used for main headings</h1>
+<h2>This is used for a level 2 heading</h2>
+<h3>This is used for a level 3 heading</h3>
+<h4>This is used for a level 4 heading</h4>
+<h5>This is used for a level 5 heading</h5>
+<h6>This is used for a level 6 heading</h6>
+```
+
+By default browsers display the contents of headings at different sizes. The content of an `<h1>` element is that largest, and the content of an `<h6>` element is the smallest.
+
+[![](http://cd.sseu.re/20161119-90oh8.png)](http://cd.sseu.re/20161119-90oh8.png)
+
+### Paragraphs
+
+You can create a paragraph by surrounding the words with an opening `<p>` tag and a closing `</p>` tag.
+
+```html
+<p>Code is everywhere. People in all industries can benefit from learning code to boost their productivity and e-skills.</p>
+
+<p>We offer you a kickstart into the world of modern day software engineering for the web with immersive and results-driven boot camps.</p>
+
+<p>Learn to build web applications from industry experts. Choose from entry level beginner courses all the way up to advanced courses that prepare you for a new career.</p>
+```
+
+By default browsers will show each paragraph on a new line with a bit of space in between.
+
+[![](http://cd.sseu.re/20161119-cwhpw.png)](http://cd.sseu.re/20161119-cwhpw.png)
+
+### Span
+A span is an **inline element**, meaning it can be on a line with other elements:
+
+```html
+<p>We</p>
+<p>are</p>
+<p>on</p>
+<p>a</p>
+<p>new</p>
+<p>line</p>
+
+<span>We</span>
+<span>are</span>
+<span>on</span>
+<span>one</span>
+<span>line</span>
+```
+Which will look like this:
+
+![](https://cd.sseu.re/Page_Title__2018-09-04_15-28-14.png)
+
+> 🎓 _DIY Add some text!_
+> * Add a heading to your footer, saying 'Find me online!'
+> * Add a couple of spans with social media names (facebook, github, medium, etc)
+> * Add a paragraph inviting the reader to ask for more information.
+> Your code will look something like this:
+> ```html
+> <!DOCTYPE html>
+>
+> <html>
+>
+> <!-- Other Code -->
+>
+>   <body>
+>
+>     <div class="main">I am a box!</div>
+>     <div class="footer">      
+>       <h4>Find me online!</h4>
+>       <span>facebook</span>
+>       <span>github</span>
+>       <span>medium</span>
+>       <p>Have any questions? Get in touch!</p>
+>     </div>
+>
+>   </body>
+>
+> </html>
+> ```
+> * finally update your style sheet and add a css declaration with a property `text-align` and a value `center`.
+> By now, your page should look something like this:
+> ![](https://cd.sseu.re/Jane_Doe__2018-09-04_15-40-26.png)
 
 
 
