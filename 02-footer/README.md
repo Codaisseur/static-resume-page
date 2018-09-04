@@ -66,7 +66,7 @@ Your result will look something like this: ![](https://cd.sseu.re/This_will_show
 
 However, we only want to color our footer. We'll have to make sure css recognizes the difference between those two boxes. To do so, we need to zoom in on the elements that HTML builds on.
 
-## HTML Tags & Attributes
+# HTML Tags & Attributes
 
 In this section, you will learn some of the tags that are available in HTML to create web pages.
 
@@ -122,7 +122,7 @@ Some HTML elements are **self-closing**. They don't need a closing tag.
 
 Time to add some content to our footer! Let's check on how to add text to our HTML...
 
-## Text
+# Text
 
 ### Headings
 
