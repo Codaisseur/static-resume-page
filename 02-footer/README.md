@@ -116,6 +116,7 @@ Some HTML elements are **self-closing**. They don't need a closing tag.
 
 ---
 #### 🎯 Learning Goal Tracker
+* [x] How to add a background color
 * [x] How to style a specific part of your webpage
 ---
 
@@ -210,6 +211,8 @@ Which will look like this:
 
 ---
 #### 🎯 Learning Goal Tracker
+* [x] How to add a background color
+* [x] How to style a specific part of your webpage
 *  [x] How to create a paragraph
 *  [x] How to style your text
 *  [x] How to center something on your page
