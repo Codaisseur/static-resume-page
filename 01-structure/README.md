@@ -158,22 +158,7 @@ Back then we looked into this example:
 
 [![](http://cd.sseu.re/20161122-t9spb.png)](http://cd.sseu.re/20161122-t9spb.png)
 
-CSS associates style rules with HTML elements. With CSS you can create rules to control the way each of those boxes (and its content) is displayed in the browser. Like for example:
-
-```css
-p {
-  font-family: Helvetica;
-}
-
-h1, h2, h3 {
-  font-family: Arial;
-  color: green;
-}
-```
-
-CSS rules always contain two parts: a **selector** and a **declaration**, made up of a **property** and a **value**.
-
-[![](http://cd.sseu.re/20161126-1xmve.png)](http://cd.sseu.re/20161126-1xmve.png)
+CSS associates style rules with HTML elements. With CSS you can create rules to control the way each of those boxes (and its content) is displayed in the browser. 
 
 ## How to include CSS in your site
 
