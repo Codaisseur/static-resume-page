@@ -14,13 +14,6 @@ In this section you will learn:
 
 Any website you ever visited was made with html (Hyper Text Markup Language). The language started off as a pure text based document format, and each new version of HTML is adapted to the new requirements of the web. HTML is used to structure your content.
 
-## 🎯 Learning Goal Tracker
-* [x] What HTML is and what it is used for
-* [ ] What CSS is and what it is used for
-* [ ] How to inspect the HTML and CSS code of a web page
-
----
-
 You can inspect the HTML code of any page you visit. Let's try with our  [example page](https://serene-mcnulty-aa84b3.netlify.com/)!
 
 
@@ -51,11 +44,6 @@ With CSS, you can control a lot of things related to how your page looks like:
 + variations in display for different devices and screen sizes
 + ...
 
-## 🎯 Learning Goal Tracker
-* [x] What HTML is and what it is used for
-* [x] What CSS is and what it is used for
-* [ ] How to inspect the HTML and CSS code of a web page
-
 ---
 
 > 🎓 _DIY: Inspect the page_
@@ -68,6 +56,6 @@ With CSS, you can control a lot of things related to how your page looks like:
 ## 🎯 Learning Goal Tracker
 * [x] What HTML is and what it is used for
 * [x] What CSS is and what it is used for
-* [x ] How to inspect the HTML and CSS code of a web page
+* [x] How to inspect the HTML and CSS code of a web page
 
 ---
