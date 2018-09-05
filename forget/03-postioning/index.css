@@ -1,0 +1,150 @@
+
+body{
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  color: rgb(145, 144, 144);
+  font-family: 'Overpass Mono', monospace;
+  font-size: 1.2rem;
+}
+
+/* div {
+  min-height: 2rem;
+  min-width: 2rem;
+} */
+
+.main {
+  display: flex;
+  flex-flow: row;
+}
+
+.sidebar {
+  flex-grow: 1;
+  max-width: 30%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 2rem;
+}
+
+.header {
+  position: relative;
+  overflow: hidden;
+  margin-bottom: 2rem;
+}
+
+.divider {
+  margin: 2rem 0;
+}
+
+.profilePicture {
+  max-width: 100%;
+}
+
+.pictureOverlay {
+  position: absolute; 
+  bottom: 0; 
+  left: 0; 
+  width: 100%; 
+  background-color: #BF3030;
+  color: white;
+  margin: 0;
+  padding: 1rem;
+
+}
+
+.sidebarMain {
+  margin: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
+
+.generalInfo {
+  list-style: none;
+}
+
+.sectionTitle {
+  padding: 1rem;
+  color: #bf3030;
+}
+
+.sidebarIcon {
+  height: 1.5rem;
+  margin: 0 1rem;
+}
+
+.asterisk {
+  height: 0.8rem;
+  margin: 0 1rem;
+}
+
+.progressTitle {
+  margin-bottom: 0;
+  margin-left: 0.5rem;
+}
+
+.progressBar {
+  height: 1rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 2px;
+  margin: 0.5rem;
+}
+
+.level{
+  border-radius: 2px;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  background-color: #BF3030;
+  color: white;
+  font-size: .8rem;
+  text-align: center;
+}
+
+.ninety {
+  width: 90%;
+}
+
+.eighty {
+  width: 80%;
+}
+
+.sixty {
+  width: 60%;
+}
+
+.moreInfo {
+  flex-grow: 3;
+  padding: 2rem;
+}
+
+.titleIcon {
+  width: 3rem;
+  margin: 0 2rem;
+}
+
+.workExperience {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 2rem;
+}
+
+.education {
+  margin-top: 1rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 2rem;
+}
+
+.experienceTitle {
+  color: #FF0000;
+}
+
+.footer {
+  text-align: center;
+  color: white;
+  background-color: #A60000;
+  padding: 1rem;
+}
+
+.socialMediaButton {
+  height: 2rem;
+}
