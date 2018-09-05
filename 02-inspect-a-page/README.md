@@ -53,6 +53,7 @@ With CSS, you can control a lot of things related to how your page looks like:
 > * Change the color to `#f0f0f0`. What happens?
 > * Try changing some other elements.
 
+---
 ## 🎯 Learning Goal Tracker
 * [x] What HTML is and what it is used for
 * [x] What CSS is and what it is used for
