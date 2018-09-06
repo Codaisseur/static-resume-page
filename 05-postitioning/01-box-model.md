@@ -43,6 +43,55 @@ You can click in those values and edit them directly in the browser until you ar
 
 Let's now have a look at the most common CSS properties related to boxes.
 
+## ✏️ Exercise
+> * Remember the structure of our page?
+> ![](https://cd.sseu.re/FireShot_Capture_1_-_Jane_Doe__-_file____Users_mimi_Code_Codaisseur_.png_2018-09-06_14-12-49.png)
+>
+>   * Our `body` (blue) consists of a `footer` and a `main` box (red)
+>   * Inside our `main` box, there is a `side-bar` and a `more-info` box (orange)
+>   * Inside our `more-info` box, there are a `work-experience` and a `education` box (yellow).
+>   * Inside these boxes, there are even smaller boxes: the elements that we just learned about, such as `<h1>`, `<img>` and `spans`
+> * Reflect this structure in your code. We'll use `div` elements to distinguish different components, and class attributes to distinguish them for styling. First wrap your footer in a `div` with the class `footer`:
+> ```html
+> <!--index.html-->
+><body>
+>   <div class="footer">
+>     <h3>Find me online!</h3>
+>     <!--Your spans-->
+>     <p>Have any questions? Get in touch!</p>
+>   </div>
+></body>
+>```
+> * Now add the rest of the structure using the explanation above, `div` elements and classes.
+><details>
+>  <summary>
+>     Try yourself first, click here to see the code!
+>  </summary>
+>
+> ```html
+> <!--index.html-->
+><body>
+>   <div class="main">
+>     <div class="sidebar"></div>
+>     <div class="more-info">
+>       <div class="work-experience"></div>
+>       <div class="education"></div>
+>     </div>
+>   </div>
+>   <div class="footer">
+>     <h3>Find me online!</h3>
+>     <!--Your spans-->
+>     <p>Have any questions? Get in touch!</p>
+>   </div>
+></body>
+>```
+> </details>
+>
+> * Check whether the new components show up in your Dev Tools:
+> ![boxes](https://cd.sseu.re/Jane_Doe_2018-09-06_14-58-01.png)
+> * Update your your css to so only your footer has a `background-color`.
+> Next: let's make sure our boxes show up on the page!
+
 ### Box Dimensions
 
 You can define the dimensions of any "box" or element in your HTML using the `width` and `height` properties.
@@ -90,50 +139,35 @@ p {
 You can use the `margin` property in a similar way as you do with the `padding` property.
 
 ## ✏️ Exercise
-> * Remember the structure of our page?
-> ![](https://cd.sseu.re/FireShot_Capture_1_-_Jane_Doe__-_file____Users_mimi_Code_Codaisseur_.png_2018-09-06_14-12-49.png)
->
->   * Our `body` (blue) consists of a `footer` and a `main` box (red)
->   * Inside our `main` box, there is a `side-bar` and a `more-info` box (orange)
->   * Inside our `more-info` box, there are a `work-experience` and a `education` box (yellow).
->   * Inside these boxes, there are even smaller boxes: the elements that we just learned about, such as `<h1>`, `<img>` and `spans`
-> * Reflect this structure in your code. We'll use `div` elements to distinguish different components, and class attributes to distinguish them for styling. First wrap your footer in a `div` with the class `footer`:
-> ```html
-> <!--index.html-->
-><body>
->   <div class="footer">
->     <h3>Find me online!</h3>
->     <!--Your spans-->
->     <p>Have any questions? Get in touch!</p>
->   </div>
-></body>
->```
-> * Now add the rest of the structure using the explanation above, `div` elements and classes.
+> * Add a css rule to `index.css` with a `div` selector. Add some declarations to add a solid, black border of 1px, a minimal height and width of 2rem and a margin of 2rem. Check your work in the browser!
 ><details>
 >  <summary>
->     Try yourself first, click here to see the code!
+>     Not working? Check the code!
 >  </summary>
 >
-> ```html
-> <!--index.html-->
-><body>
->   <div class="main">
->     <div class="sidebar"></div>
->     <div class="more-info">
->       <div class="work-experience"></div>
->       <div class="education"></div>
->     </div>
->   </div>
->   <div class="footer">
->     <h3>Find me online!</h3>
->     <!--Your spans-->
->     <p>Have any questions? Get in touch!</p>
->   </div>
-></body>
->```
-> </p></details>
+>  ```css
+>  div {
+>    min-height: 2rem;
+>    min-width: 2rem;
+>    margin: 2rem;
+>    border: 1px solid black;
+>  }
+>  ```
+> </details>
+>
+> * Check the components in your Dev Tools. Which component is which?
+><details>
+>  <summary>
+>     Check it here!
+>  </summary>
+>
+>   ![](https://cd.sseu.re/Jane_Doe_2018-09-06_15-11-20.png)
+> </details>
 
-
+## 😱 Sanity Check
+Your page might now look something like this:
+![page box-model](https://cd.sseu.re/Jane_Doe_2018-09-06_15-27-16.png)
+You can find the final code [here]().
 
 ---
 ## 🎯 Learning Goal Tracker

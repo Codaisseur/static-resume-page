@@ -1,0 +1,32 @@
+body {
+ font-family: monospace;
+}
+
+.main {
+  display: flex;
+  flex-flow: row;
+}
+
+.sidebar {
+  flex-grow: 1;
+}
+
+.more-info {
+  flex-grow: 3;
+}
+
+.footer {
+  background-color: #A60000;
+  text-align: center;
+}
+
+.social-media-button {
+  height: 2rem;
+}
+
+div {
+  min-height: 2rem;
+  min-width: 2rem;
+  margin: 2rem;
+  border: 1px solid black;
+}
