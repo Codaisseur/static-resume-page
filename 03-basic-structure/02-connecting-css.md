@@ -131,6 +131,7 @@ Keep in mind that you can have different CSS files for one single HTML page. To 
 ---
 ## 🎯 Learning Goal Tracker
 * [x] How to set up a basic HTML structure, useful for any website.
+* [x] What elements and tags and attribtues are.
 * [x] How to change the title in your tab
 * [x] How to connect your CSS to your HTML file.
 ---

@@ -44,7 +44,7 @@ You can see the HTML code for this page below:
 
 The HTML code (in red) is what we call **HTML elements**. Most of the times, these elements are made up of two **tags**: an **opening tag** and a **closing tag** (notice that the closing tag has an extra forward slash "`/`" in it). These elements tell the browser what kind of information lives between its opening and closing tags. You can think of tags like "containers".
 
-Let's take a closer look at the code above and explain its different parts:
+Let's go through the code above **one tag at a time**:
 
 * **`<!DOCTYPE html>`** tells the browser what type of information is getting (in this case HTML) to display your web page properly.
 
@@ -63,6 +63,19 @@ In the previous example, we can see three main different elements within the bod
 
 * **`<footer>`** defines a footer for your web page. It typically contains authorship and copyright information, links to your social media sites and contact information.
 
+### 🌟 HTML tags are `keywords` (tag names) surrounded by `angle brackets`. Most HTML tags open and close.
+
+[![](http://cd.sseu.re/20170208-4ri4d.png)](http://cd.sseu.re/20170208-4ri4d.png)
+
+### 🌟 HTML tags can have attributes.
+
+[![](http://cd.sseu.re/20170209-lsyri.png)](http://cd.sseu.re/20170209-lsyri.png)
+
+### 🌟 Some HTML tags are self-closing. They don't need a closing tag.
+
+[![](http://cd.sseu.re/20170209-c91ke.png)](http://cd.sseu.re/20170209-c91ke.png)
+
+Now it's time for you to practice!
 
 Now it's time for you to practice!
 
@@ -127,6 +140,7 @@ Now it's time for you to practice!
 ---
 ## 🎯 Learning Goal Tracker
 * [x] How to set up a basic HTML structure, useful for any website.
+* [x] What elements and tags and attribtues are.
 * [x] How to change the title in your tab
 * [ ] How to connect your CSS to your HTML file.
 
