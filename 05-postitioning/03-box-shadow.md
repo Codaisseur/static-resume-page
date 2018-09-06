@@ -49,6 +49,11 @@ Do you also think those black borders are a little boring? Let's add some 3D eff
 >  ```
 > </details>
 
+## 😱 Sanity Check
+Your page should now look something like this:
+![page box-shadow](https://cd.sseu.re/Monosnap_2018-09-06_16-12-05.png)
+You can find the code [here]().
+
 
 ---
 ## 🎯 Learning Goal Tracker
