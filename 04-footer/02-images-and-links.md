@@ -1,6 +1,6 @@
 # Links and Images
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this chapter [here]().
+### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
 
 Right now, our page looks like this: ![page html-elements](https://cd.sseu.re/Jane_Doe_2018-09-06_10-46-59.png)
 

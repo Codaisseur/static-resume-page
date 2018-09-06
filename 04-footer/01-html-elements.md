@@ -1,6 +1,6 @@
 # HTML Elements
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this chapter [here]().
+### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
 
 Remember?
 

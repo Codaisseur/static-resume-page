@@ -1,6 +1,6 @@
 # Box Model
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this chapter [here]().
+### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
 
 The chapter before, we ended up with this page:
 ![page box-model](https://cd.sseu.re/Jane_Doe_2018-09-06_15-27-16.png)
