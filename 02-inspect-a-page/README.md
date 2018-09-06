@@ -17,7 +17,7 @@ Any website you ever visited was made with html (Hyper Text Markup Language). Th
 You can inspect the HTML code of any page you visit. Let's try with our  [example page](https://serene-mcnulty-aa84b3.netlify.com/)!
 
 
-> 🎓 _DIY: Inspect the page_
+## ✏️ Exercise
 > * Add the browser extension [mozilla X-ray goggles](https://goggles.mozilla.org/) in google chrome. Restart your browser.
 > * Go to [ our example page](https://serene-mcnulty-aa84b3.netlify.com/).
 > * Click on X-ray goggles in your bookmarks bar:
@@ -46,7 +46,7 @@ With CSS, you can control a lot of things related to how your page looks like:
 
 ---
 
-> 🎓 _DIY: Inspect the page_
+## ✏️ Exercise
 > * Right click on the 'Work Experience'- header and select inspect. This will open your DevTools:
 > ![Dev Tools](https://cd.sseu.re/Jane_Doe_2018-09-05_16-54-10.png)
 > * Click on `1rem` in the CSS section of your Dev Tools and change it to `20rem`. What happens?
