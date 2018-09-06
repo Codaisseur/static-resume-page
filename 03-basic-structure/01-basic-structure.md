@@ -77,8 +77,6 @@ In the previous example, we can see three main different elements within the bod
 
 Now it's time for you to practice!
 
-Now it's time for you to practice!
-
 ## ✏️ Exercise
 
 > First you need to create a new project project in Atom (your text editor), following these steps:
