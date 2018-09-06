@@ -1,0 +1,12 @@
+body {
+ background-color: #A60000;
+ font-size: monospace;
+}
+
+.footer {
+  text-align: center;
+}
+
+.social-media-button {
+  height: 2rem;
+}
