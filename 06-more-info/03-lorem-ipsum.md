@@ -15,6 +15,11 @@ Your editor can actually write it for you. Start typing _lore_ and hit enter. It
 > * Do the same for the Education section.
 > * Add some styling to your page!
 
+## 😱 Sanity Check
+Your page should now look something like this:
+![page lorem-ipsum](https://cd.sseu.re/FireShot_Capture_3_-_Jane_Doe__-_file____Users_mimi_Code_Codaisseur_.png_2018-09-06_20-50-29.png)
+You can find the code [here]().
+
 ---
 ## 🎯 Learning Goal Tracker
 
