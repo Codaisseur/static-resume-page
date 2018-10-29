@@ -13,3 +13,7 @@ In this section you will learn:
 * [ ] How to add an image element to your page.
 * [ ] How to add a link to another page.
 * [ ] How to style a specific element.
+
+---
+
+**[◀ Previous: Connecting CSS](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/03-connecting-with-css.md)** ――――――――――――――――――――――――――― **[Next: HTML Elements ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/05-html-elements.md)**

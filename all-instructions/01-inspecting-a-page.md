@@ -60,3 +60,4 @@ With CSS, you can control a lot of things related to how your page looks like:
 * [x] How to inspect the HTML and CSS code of a web page
 
 ---
+**[◀ Previous: Introduction](https://github.com/Codaisseur/static-resume-page/tree/master/all-instructions)** ――――――――――――――――――――――――――― **[Next: Basic HTML ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/02-basic-html.md)**

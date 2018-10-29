@@ -12,7 +12,9 @@ Welcome to this repository. Today, you will be learning all about HTML and CSS b
 In this track, we will be guiding you step by step to  build [this web page](https://serene-mcnulty-aa84b3.netlify.com/): 
 [![final result](https://cd.sseu.re/FireShot_Capture_1_-_Jane_Doe__-_file____Users_mimi_Code_Codaisseur_.png_2018-09-05_15-13-39.png)](https://serene-mcnulty-aa84b3.netlify.com/)
 
-[Click here to get started!]()
+[Click here to get started!](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/01-inspecting-a-page.md)
 
+---
 
+ ――――――――――――――――――――――――――― **[Next: Inspecting A Page ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/01-inspecting-a-page.md)**
 

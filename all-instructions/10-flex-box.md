@@ -1,6 +1,6 @@
 # Box Model
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
+
 
 The chapter before, we ended up with this page:
 ![page box-model](https://cd.sseu.re/Jane_Doe_2018-09-06_15-27-16.png)
@@ -172,3 +172,5 @@ In this section you will learn:
 * [ ] How to add a box shadow to a component
 
 ---
+
+**[◀ Previous: Box Model](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/09-box-model.md)** ――――――――――――――――――――――――――― **[Next: Box Shadow ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/11-box-shadow.md)**

@@ -143,3 +143,4 @@ Now it's time for you to practice!
 * [ ] How to connect your CSS to your HTML file.
 
 ---
+**[◀ Previous: Inspecting A Page](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/01-inspecting-a-page.md)** ――――――――――――――――――――――――――― **[Next: Connecting CSS ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/03-connecting-with-css.md)**

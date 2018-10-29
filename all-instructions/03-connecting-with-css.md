@@ -135,3 +135,4 @@ Keep in mind that you can have different CSS files for one single HTML page. To 
 * [x] How to change the title in your tab
 * [x] How to connect your CSS to your HTML file.
 ---
+**[◀ Previous: Basic HTML](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/02-basic-html.md)** ――――――――――――――――――――――――――― **[Next: Building A Footer ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/04-building-a-footer.md)**

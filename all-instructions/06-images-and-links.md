@@ -1,6 +1,6 @@
 # Links and Images
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
+
 
 Right now, our page looks like this: ![page html-elements](https://cd.sseu.re/Jane_Doe_2018-09-06_10-46-59.png)
 
@@ -127,3 +127,5 @@ Clearly, it is time to do some styling!
 * [x] How to add an image element to your page.
 * [ ] How to style a specific element.
 ---
+
+**[◀ Previous: HTML Elements](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/05-html-elements.md)** ――――――――――――――――――――――――――― **[Next: Styling a Specific Element ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/07-styling-a-specific-element.md)**

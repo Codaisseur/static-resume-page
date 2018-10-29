@@ -14,3 +14,5 @@ Now you have got the basics, it is time to get creative! Use our page or any oth
 * [MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS) (for more technical help)
 * [CSS tricks](https://css-tricks.com/) (just google css tricks + any feature you want to implement)
 * [W3 Schools](https://www.w3schools.com/css/css_examples.asp) (awesome for css, don't look at it for JavaScript though)
+
+**[◀ Previous: Box Shadow](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/11-box-shadow.md)** ――――――――――――――――――――――――――― **[Next: Home ▶](https://github.com/Codaisseur/static-resume-page/tree/master/all-instructions)**

@@ -1,7 +1,5 @@
 # HTML Elements
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
-
 Remember?
 
 ### 🌟 HTML tags are `keywords` (tag names) surrounded by `angle brackets`. Most HTML tags open and close.
@@ -112,3 +110,5 @@ Here is a list of resources that will help you learn more about HTML tags:
 * [ ] How to add an image element to your page.
 * [ ] How to style a specific element.
 ---
+
+**[◀ Previous: Building A Footer](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/04-building-a-footer.md)** ――――――――――――――――――――――――――― **[Next: Images and Links ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/06-images-and-links.md)**

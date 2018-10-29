@@ -1,6 +1,6 @@
 # Box Model
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
+
 
 ### 🌟 A screen consists of `pixels`. Any HTML element in your page will have a `width` and `height`, that you can define in `pixels`.
 

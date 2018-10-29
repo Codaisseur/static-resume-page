@@ -1,6 +1,6 @@
 # Box Model
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
+
 
 ### 🌟 A screen consists of `pixels`. Any HTML element in your page will have a `width` and `height`, that you can define in `pixels`.
 
@@ -179,3 +179,5 @@ In this section you will learn:
 * [ ] How to add a box shadow to a component
 
 ---
+
+**[◀ Previous: Positioning](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/08-positioning.md)** ――――――――――――――――――――――――――― **[Next: Flex Box ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/10-flex-box.md)**

@@ -22,3 +22,5 @@ In this section you will learn:
 * [ ] How to add a box shadow to your component
 
 ---
+
+**[◀ Previous: Styling a Specific Element](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/07-styling-a-specific-element.md)** ――――――――――――――――――――――――――― **[Next: Box Model ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/09-box-model.md)**

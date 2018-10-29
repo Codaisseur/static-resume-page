@@ -1,6 +1,6 @@
 # Horizontal Line
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
+
 
 Last chapter we ended up with a page like this: ![page title-with-icon](https://cd.sseu.re/Monosnap_2018-09-06_16-50-43.png)
 

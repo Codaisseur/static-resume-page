@@ -1,5 +1,5 @@
 # Styling a specific element
-### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
+
 
 last chapter, we ended up with page looking something like this:
 ![page images-and-links](https://cd.sseu.re/FireShot_Capture_2_-_Jane_Doe__-_file____Users_mimi_Code_Codaisseur_.png_2018-09-06_11-16-42.png)

@@ -1,6 +1,6 @@
 # Box Model
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
+
 
 The chapter before, we ended up with this page:
 ![page styling-a-specific-element](https://cd.sseu.re/Monosnap_2018-09-06_15-42-47.png)

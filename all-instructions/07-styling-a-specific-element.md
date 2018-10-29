@@ -252,3 +252,5 @@ You can find the code [here](https://github.com/Codaisseur/static-resume-page/tr
 * [x] How to add an image element to your page.
 * [x] How to style a specific element.
 ---
+
+**[◀ Previous: Images and Links](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/06-images-and-links.md)** ――――――――――――――――――――――――――― **[Next: Positioning ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/08-positioning.md)**

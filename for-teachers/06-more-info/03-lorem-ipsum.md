@@ -1,6 +1,6 @@
 # Lorem Ipsum
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
+
 
 Last chapter we ended up with this page: ![page horizontal-line](https://cd.sseu.re/Monosnap_2018-09-06_20-25-01.png)
 

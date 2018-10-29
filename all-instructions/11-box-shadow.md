@@ -1,6 +1,6 @@
 # Box Model
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
+
 
 The chapter before, we ended up with this page:
 ![page styling-a-specific-element](https://cd.sseu.re/Monosnap_2018-09-06_15-42-47.png)
@@ -65,3 +65,5 @@ In this section you will learn:
 * [x] How to add a box shadow to a component
 
 ---
+
+**[◀ Previous: Flex Box](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/10-flex-box.md)** ――――――――――――――――――――――――――― **[Next: Do It Yourself ▶](https://github.com/Codaisseur/static-resume-page/blob/master/all-instructions/12-do-it-yourself.md)**

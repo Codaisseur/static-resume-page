@@ -1,6 +1,6 @@
 # Box Model
 
-### 💡 Not going through this chapter step by step? Find the starter code  for this section [here]().
+
 
 Last chapter we ended up with a page all ready for some content! ![page box-shadow](https://cd.sseu.re/Monosnap_2018-09-06_16-12-05.png)
 
