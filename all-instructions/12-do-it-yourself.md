@@ -1,6 +1,4 @@
----
-title: DIY
----
+# Do It Yourself
 
 Now you have got the basics, it is time to get creative! Use our page or any other page as an example, inspect what it looks like, or use one of the sources below to build the picture you have in mind. Some cool topics to look in to on our page:
 
