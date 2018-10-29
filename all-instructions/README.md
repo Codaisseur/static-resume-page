@@ -1,7 +1,7 @@
 
 # Welcome!
 
-Welcome to this repository. Today, you will be learning all about HTML and CSS by building your own portfolio page. Let's start by choosing your level:
+Welcome to this repository. Today, you will be learning all about HTML and CSS by building your own portfolio page.
 
 ## Before you start...
 
