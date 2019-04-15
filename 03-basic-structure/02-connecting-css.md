@@ -124,8 +124,7 @@ Keep in mind that you can have different CSS files for one single HTML page. To 
 
 > ### Nothing Happening?
 >
-> * Check what your code should look like at this stage [here](). 
-> * Still not sure? Make sure to ask!
+> * Ask for help!
 
 
 ---
