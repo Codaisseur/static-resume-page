@@ -123,8 +123,9 @@ Keep in mind that you can have different CSS files for one single HTML page. To 
 ## 💡 Tips & Tricks
 
 > ### Nothing Happening?
->
-> * Ask for help!
+> * index.html should look like: [this](./index.html)
+> * index.css should look like: [this](./index.css)
+> * Still nothing happening? Ask for help!
 
 
 ---
